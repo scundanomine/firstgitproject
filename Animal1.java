@@ -1,6 +1,7 @@
 class Animal{
     void eat(){System.out.println("eating...");}
 }
+//this file is created to study inheritance in Java
 class Dog extends Animal{
     void bark(){System.out.println("barking...");}
 }
